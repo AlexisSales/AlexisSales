@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexisSales
 - 👀 I’m interested in creating self-projects that gear me towards my goal of being a software developer
-- 🌱 I’m currently learning how to code in JavaScript
+- 🌱 I’m currently learning how to code in JavaScript and C#
 - 💞️ I’m looking to collaborate on Discord bots, game development, etc.
 - 📫 How to reach me ...
 
